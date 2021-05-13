@@ -1,1 +1,1 @@
-Learncer app website files.
+Learncer app landing page files.
